@@ -1,3 +1,12 @@
+:root {
+  --color-1: #fff9eb;
+  --color-2: #00204f;
+  --color-3: #c2daff;
+  --color-4: #ffaf0f;
+  --color-5: #f21905;
+  --main-text-color: #00204f;
+}
+
 header {
   display: flex;
   flex-direction: column;
@@ -6,7 +15,7 @@ header {
 }
 
 .logo {
-    padding-top: 1rem;
+  padding-top: 1rem;
 }
 nav ul {
   display: flex;
